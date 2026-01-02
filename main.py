@@ -1,5 +1,5 @@
 import os
-from vazou_senha import verificar_senha_vazada
+from Teste_de_vazamento import verificar_senha_vazada
 
 logo = '''
                                                                      
